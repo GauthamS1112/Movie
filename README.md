@@ -20,3 +20,10 @@ Link :
 Task 1 : https://linkedin-fry4ivflhgmeqf5g4crcvb.streamlit.app/
 
 Task 2 : https://gtmmovierecommender.streamlit.app/
+
+
+11/06/2025 - Tasks Completed Today
+
+Problem Statement 1 - Action items discussed during meetings are often lost or forgotten, leading to project delays
+
+Link - https://drive.google.com/file/d/1wuoO4t_VwfSMxwoke7MJrzoWw6oJWl8a/view?usp=sharing
